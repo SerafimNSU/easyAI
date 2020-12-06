@@ -1,11 +1,11 @@
 # easyAI
 This repo is for challenge "PDE reconstruction for system dynamics identification" within Aramco Upstream Solutions Technathon 2020
 
-### Comments
-Notebooks with ( + ) mean that we have got good results
+## Our main solutions:
+1) Physics-Informed Neural Networks - SinPINNs.ipynb or [colab version](https://colab.research.google.com/drive/1wUeji-UZCChrpKUVZ1h2xKa842jiAfHG?usp=sharing)
 
-Notebooks with ( +- ) mean that we have got promising results
+2) NeuralODE - NeuralODE.ipynb & NeuralODE.py or [colab version]()
 
-Notebooks with ( - ) mean that we haven't achieved a success yet
+3) Fourier Transform - FFT.ipynb or [colab version]() 
 
 
